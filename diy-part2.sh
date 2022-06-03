@@ -14,9 +14,7 @@
 sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generate
 
 sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
-sed -i 's#%D#&/NueXini#g' package/base-files/files/etc/openwrt_release
-sed -i 's#ImmortalWrt#&/NueXini#g' include/version.mk
-sed -i 's#_DIST),OpenWrt#&/NueXini#g' include/version.mk
+
 ZZZ="package/lean/default-settings/files/zzz-default-settings"
 sed -i '/CYXluq4wUazHjmCDBCqXF/d' $ZZZ
 sed -i "s/OpenWrt /Xiaomi R3G  compiled in $(TZ=UTC-8 date "+%Y.%m.%d") @ OpenWrt /g" $ZZZ
