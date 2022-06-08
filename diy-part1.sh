@@ -19,7 +19,8 @@
 
 
 echo 'src-git openclash https://github.com/vernesong/openclash.git' >>feeds.conf.default
-#echo 'src-git dingtalk https://github.com/open-dingtalk/dingtalk-pierced-client.git' >>feeds.conf.default
+echo 'src-git dingtalk https://github.com/open-dingtalk/dingtalk-pierced-client.git' >>feeds.conf.default
+
 
 
 
