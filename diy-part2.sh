@@ -21,7 +21,6 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luc
 
 git clone -b 18.06 https://github.com/r1172464137/luci-theme-edge.git package/luci-theme-edge   # 替换新版edge
 
-git clone -b 18.06 https://github.com/XXKDB/luci-theme-argon_armygreen.git package/luci-theme-argon_armygreen 
 
 
 
