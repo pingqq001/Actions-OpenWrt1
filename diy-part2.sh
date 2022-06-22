@@ -22,8 +22,11 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luc
 git clone -b 18.06 https://github.com/r1172464137/luci-theme-edge.git package/luci-theme-edge   # 替换新版edge
 
 git clone -b 18.06 https://github.com/XXKDB/luci-theme-argon_armygreen.git package/luci-theme-argon_armygreen
-git clone -b 18.06 https://github.com/virualv/luci-theme-pink.git  package/luci-theme-pink
+git clone -b 18.06 https://github.com/virualv/luci-theme-pink.git  package/luci-theme-pink 
 
+git clone -b 18.06 https://github.com/uparrows/luci-theme-argon_armygreen.git /package/luci-green
+
+git clone -b 18.06 https://github.com/Joecaicai/luci-theme-argon_armygreen.git /package/luci-mygreen
 
 
 
