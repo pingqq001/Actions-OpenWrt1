@@ -20,6 +20,7 @@
 
 echo 'src-git openclash https://github.com/vernesong/openclash.git' >>feeds.conf.defaul
 
+echo 'src-git istore https://github.com/luochongjun/istore.git' >>feeds.conf.default
 
 
 
