@@ -20,5 +20,5 @@ rm -rf  feeds/luci/themes/luci-theme-argon   # 删除自带argon
 
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon   # 替换新版argon
 
-git clone https://github.com/r1172464137/luci-theme-edge.git package/luci-theme-edge   # 替换新版edge
+#git clone https://github.com/r1172464137/luci-theme-edge.git package/luci-theme-edge   # 替换新版edge
 
