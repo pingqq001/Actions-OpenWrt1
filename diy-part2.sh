@@ -22,3 +22,8 @@ git clone https://github.com/kenzok78/luci-theme-argone.git package/luci-theme-a
 
 #git clone https://github.com/r1172464137/luci-theme-edge.git package/luci-theme-edge   # 替换新版edge
 
+
+
+echo 'src-git nas https://github.com/linkease/nas-packages.git package/luci-theme-gygg
+echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci.git package/luci-theme-aeedee
+ 
